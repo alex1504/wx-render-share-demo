@@ -4,7 +4,7 @@ canvas画图片，画文字，使用clip方法裁剪圆形图片
 
 ![result](https://raw.githubusercontent.com/alex1504/wx-render-share-demo/master/assets/result.jpg)
 
-```
+```js
 // index.js
 Page({
     data: {
